@@ -1,0 +1,9 @@
+name: run-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - scikit-learn
+  - scikit-image
